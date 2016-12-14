@@ -1,0 +1,69 @@
+{
+  "auto_complete": true,
+  "auto_indent": true,
+  "binary_file_patterns":
+  [
+    "*.jpg",
+    "*.jpeg",
+    "*.png",
+    "*.gif",
+    "*.ttf",
+    "*.tga",
+    "*.dds",
+    "*.ico",
+    "*.eot",
+    "*.pdf",
+    "*.swf",
+    "*.jar",
+    "*.zip",
+    "*.scssc"
+  ],
+  "bold_folder_labels": true,
+  "caret_style": "phase",
+  "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+  "default_encoding": "UTF-8",
+  "detect_indentation": true,
+  "draw_indent_guides": true,
+  "draw_white_space": true,
+  "enable_tab_scrolling": false,
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    "dist",
+    "node_modules"
+  ],
+  "font_options":
+  [
+  ],
+  "font_size": 11,
+  "gutter": true,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "JSLint",
+    "Vintage"
+  ],
+  "indent_subsequent_lines": true,
+  "line_padding_bottom": 3,
+  "line_padding_top": 3,
+  "margin": 2,
+  "overlay_scroll_bars": "enabled",
+  "remember_full_screen": true,
+  "remember_open_files": false,
+  "show_definitions": false,
+  "show_full_path": true,
+  "smart_indent": true,
+  "tab_completion": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_automatic_white_space": true,
+  "trim_trailing_white_space_on_save": false,
+  "use_simple_full_screen": true,
+  "word_wrap": true,
+  "wrap_width": 0
+}
